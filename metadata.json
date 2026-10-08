@@ -1,0 +1,6 @@
+{
+  "name": "LeadBot AI - Plataforma de IA para Negócios Locais",
+  "description": "Plataforma de landing pages com agente conversacional inteligente e transbordo para WhatsApp para microempreendedores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
